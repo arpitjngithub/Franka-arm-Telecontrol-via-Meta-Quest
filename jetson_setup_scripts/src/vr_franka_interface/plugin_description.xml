@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<library path="lib/libvr_cartesian_controller.so">
+  <class
+    name="vr_franka_interface/VrCartesianController"
+    type="vr_franka_interface::VrCartesianController"
+    base_class_type="controller_interface::ControllerInterface">
+    <description>
+      VR-to-Franka Cartesian pose streaming controller
+    </description>
+  </class>
+</library>
+

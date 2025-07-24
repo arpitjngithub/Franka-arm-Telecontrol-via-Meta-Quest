@@ -1,0 +1,10 @@
+<library path="libvr_cartesian_controller">
+  <class name="franka_example_controllers/VRCartesianController"
+         type="franka_example_controllers::VRCartesianController"
+         base_class_type="controller_interface::ControllerInterface">
+    <description>
+      VR‐driven Cartesian controller: subscribes to /vr/controller_left/pose.
+    </description>
+  </class>
+</library>
+
