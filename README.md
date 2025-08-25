@@ -38,9 +38,10 @@ The project demonstrates an open-source, low-latency telecontrol pipeline with:
 
 ## 📸 Quick Demo & Poster
 
-- 🎥 [Final Video]([https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing](https://drive.google.com/file/d/1djWV3_R8KXjHr3tL3xHfMX5mXeVSdfsM/view?usp=sharing))  
-- 📄 [Technical Poster]([documentation/Arpit_UofA_Poster.pdf](https://drive.google.com/file/d/1nZMoYLV-StBFFC5Pdl3KX6oBUIysdNmN/view?usp=sharing))
-- 🎥 [Complete Setup Video]([https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing)  
+- 🎥 [Final Demo Video](https://drive.google.com/file/d/1djWV3_R8KXjHr3tL3xHfMX5mXeVSdfsM/view?usp=sharing)  
+- 📄 [Technical Poster (PDF)](https://drive.google.com/file/d/1nZMoYLV-StBFFC5Pdl3KX6oBUIysdNmN/view?usp=sharing)  
+- 🎥 [Complete Setup Video](https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing)
+
 ---
 
 ## 📚 Full Documentation
