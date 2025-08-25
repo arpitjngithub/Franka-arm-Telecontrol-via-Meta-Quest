@@ -19,22 +19,6 @@ The project demonstrates an open-source, low-latency telecontrol pipeline with:
 
 ---
 
-## 🗂️ Repository Structure
-
-Franka-arm-Telecontrol-via-Meta-Quest/
-├── unity_project/ # Unity app to stream controller poses via ROS-TCP
-├── jetson_setup_scripts/ # ROS 2 workspace (src/), custom C++ code, and setup scripts
-│ ├── src/ # ROS 2 packages: franka_cartesian_control, vr_control, etc.
-│ └── my_second_motion/ # libfranka-based motion test (C++ executable)
-├── documentation/
-│ ├── Arpit_UofA_Poster.pdf # Technical poster presented at the University of Alberta
-│ └── UofA_Internship_Documentation_Arpit.pdf # Full setup guide, execution steps, and results
-└── README.md # You're here!
-
-
-
----
-
 ## 🚀 Key Technologies
 
 - **Hardware**: Meta Quest 2, Franka Emika FR3, Jetson Orin Nano
