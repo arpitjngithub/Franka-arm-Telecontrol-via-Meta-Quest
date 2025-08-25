@@ -38,14 +38,14 @@ The project demonstrates an open-source, low-latency telecontrol pipeline with:
 
 ## 📸 Quick Demo & Poster
 
-- 🎥 [System Demo Video](https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing)  
-- 📄 [Technical Poster](documentation/Arpit_UofA_Poster.pdf)
-
+- 🎥 [Final Video]([https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing](https://drive.google.com/file/d/1djWV3_R8KXjHr3tL3xHfMX5mXeVSdfsM/view?usp=sharing))  
+- 📄 [Technical Poster]([documentation/Arpit_UofA_Poster.pdf](https://drive.google.com/file/d/1nZMoYLV-StBFFC5Pdl3KX6oBUIysdNmN/view?usp=sharing))
+- 🎥 [Complete Setup Video]([https://drive.google.com/file/d/1a3b0bUUmQFpGCebrEk7THdwuXyffX55a/view?usp=sharing](https://drive.google.com/file/d/1e0ziVf_1DyKf7BcEupy_euwdH6GXxAyO/view?usp=drivesdk))  
 ---
 
 ## 📚 Full Documentation
 
-See [`documentation/UofA_Internship_Documentation_Arpit.pdf`](documentation/UofA_Internship_Documentation_Arpit.pdf) for:
+See [`Internship_Documentation.pdf`](Internship_Documentation.pdf) for:
 
 - System architecture & networking
 - Meta Quest 2 + ALVR + SteamVR setup (Linux)
