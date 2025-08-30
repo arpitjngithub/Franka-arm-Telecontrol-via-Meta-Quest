@@ -10,7 +10,7 @@ This repository contains the full codebase, setup instructions, and supporting f
 
 ---
 
-## 🔧 System Overview
+##  System Overview
 
 The project demonstrates an open-source, low-latency telecontrol pipeline with:
 - Unity-based Meta Quest 2 pose streaming (6DoF) via ALVR + SteamVR
@@ -19,7 +19,7 @@ The project demonstrates an open-source, low-latency telecontrol pipeline with:
 
 ---
 
-## 🚀 Key Technologies
+##  Key Technologies
 
 - **Hardware**: Meta Quest 2, Franka Emika FR3, Jetson Orin Nano
 - **Software**: ROS 2 Humble, Unity 2022, ALVR, SteamVR, libfranka
@@ -27,24 +27,24 @@ The project demonstrates an open-source, low-latency telecontrol pipeline with:
 
 ---
 
-## 🧠 What This System Solves
+##  What This System Solves
 
-- ❌ Eliminates reliance on expensive, Windows-only VR toolchains  
-- ✅ Fully Linux-based, low-latency XR control (< 20 ms)
-- ✅ Precise pose tracking for millimeter-level brick and sensor placement
-- ✅ Easily reproducible by other labs for training or site automation
-
----
-
-## 📸 Quick Demo & Poster
-
-- 🎥 [Final Demo Video](https://drive.google.com/file/d/1djWV3_R8KXjHr3tL3xHfMX5mXeVSdfsM/view?usp=sharing)  
-- 📄 [Technical Poster (PDF)](https://drive.google.com/file/d/1nZMoYLV-StBFFC5Pdl3KX6oBUIysdNmN/view?usp=sharing)  
-- 🎥 [Complete Setup Video](https://drive.google.com/file/d/1e0ziVf_1DyKf7BcEupy_euwdH6GXxAyO/view)
+-  Eliminates reliance on expensive, Windows-only VR toolchains  
+-  Fully Linux-based, low-latency XR control (< 20 ms)
+-  Precise pose tracking for millimeter-level brick and sensor placement
+-  Easily reproducible by other labs for training or site automation
 
 ---
 
-## 📚 Full Documentation
+##  Quick Demo & Poster
+
+-  [Final Demo Video](https://drive.google.com/file/d/1djWV3_R8KXjHr3tL3xHfMX5mXeVSdfsM/view?usp=sharing)  
+-  [Technical Poster (PDF)](https://drive.google.com/file/d/1nZMoYLV-StBFFC5Pdl3KX6oBUIysdNmN/view?usp=sharing)  
+-  [Complete Setup Video](https://drive.google.com/file/d/1e0ziVf_1DyKf7BcEupy_euwdH6GXxAyO/view)
+
+---
+
+##  Full Documentation
 
 See [`Internship_Documentation.pdf`](Internship_Documentation.pdf) for:
 
@@ -58,7 +58,7 @@ See [`Internship_Documentation.pdf`](Internship_Documentation.pdf) for:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Add eye-in-hand camera & vision-language model for commands like “stack this” or “hand me the wrench”
 - Develop semi-autonomous macros for precise tool delivery or placement
@@ -66,7 +66,7 @@ See [`Internship_Documentation.pdf`](Internship_Documentation.pdf) for:
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 This project was conducted under the guidance of **Yuezhen Gao** and **Prof. Dr. Qipei Mei** in the Civil & Environmental Engineering Department, University of Alberta, as part of the 2025 UARE research internship program.
 
